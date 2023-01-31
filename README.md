@@ -1,2 +1,2 @@
 # Prueba-de-repositorio-
-REpositori ode prubea modulo 2 genry 
+Prueba de repositorio clonado de git gub mediante url
